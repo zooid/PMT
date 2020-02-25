@@ -1,0 +1,9 @@
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\PMT\PMT\PMT\bin\Release\PMT.exe.config
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\PMT\PMT\PMT\obj\Release\PMT.exe
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\PMT\PMT\PMT\obj\Release\PMT.pdb
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\PMT\PMT\PMT\bin\Release\PMT.exe
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\PMT\PMT\PMT\bin\Release\PMT.pdb
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\PMT\PMT\PMT\obj\Release\PMT.AboutBox1.resources
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\PMT\PMT\PMT\obj\Release\PMT.Form1.resources
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\PMT\PMT\PMT\obj\Release\PMT.Properties.Resources.resources
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\PMT\PMT\PMT\obj\Release\PMT.csproj.GenerateResource.Cache

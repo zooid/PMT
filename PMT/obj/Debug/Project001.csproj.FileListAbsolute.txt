@@ -1,0 +1,9 @@
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\Project001\Project001\Project001\obj\Debug\Project001.csprojResolveAssemblyReference.cache
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\Project001\Project001\Project001\obj\Debug\Project001.Form1.resources
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\Project001\Project001\Project001\obj\Debug\Project001.csproj.GenerateResource.Cache
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\Project001\Project001\Project001\bin\Debug\PMT.exe.config
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\Project001\Project001\Project001\bin\Debug\PMT.exe
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\Project001\Project001\Project001\bin\Debug\PMT.pdb
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\Project001\Project001\Project001\obj\Debug\PMT.Properties.Resources.resources
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\Project001\Project001\Project001\obj\Debug\PMT.exe
+E:\InstalledPrograms\GoogleDrive\Work&Hobby\00.VisualStudioProjects\Project001\Project001\Project001\obj\Debug\PMT.pdb
