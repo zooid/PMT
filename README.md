@@ -1,0 +1,3 @@
+# PMT
+
+Simple PMT calculator.
